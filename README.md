@@ -1,0 +1,1 @@
+Projetos desenvolvidos durante um curso de JAVA disponibilizado pelo SENAI TAGUATINGA.

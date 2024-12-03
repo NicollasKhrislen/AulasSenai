@@ -1,0 +1,23 @@
+Escreveremos codigos atraves do que chamamos de variaveis.
+
+Existem 4 tipos de variaveis principais:
+ - Inteiro - Integer
+ - Real - Float obs: Na programacao nao se separa valores decimais por virgula ( , ), sempre um ponto ( . )
+ - Logicos - Booleanos (Verdadeiro ou Falso)
+ - Caracteres (Letras, palavras) obs: Na programacao tudo que esta entre aspas é caractere (String)
+
+ OperadoreS aritmeticos:
+  + - soma
+  -   Subtração
+  * - Multiplicação
+  / - Divisao
+  % - Resto
+
+  Operadores relacionais é que vao definir se uma condicao é verdadeira ou nao
+
+  > - maior
+  < - menor
+  >= - Maior ou igual
+  <= - Menor ou igual
+  == - Igual
+  != - Diferente
